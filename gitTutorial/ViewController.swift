@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hello World~~")
         print("print another line")
+        print("a another line")
     }
 
     func didSomeChange() {
