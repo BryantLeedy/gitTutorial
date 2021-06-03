@@ -12,8 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("hello World~~")
     }
 
+    func didSomeChange() {
+        print("second modify place")
+    }
 
 }
 
